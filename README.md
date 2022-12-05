@@ -1,4 +1,4 @@
-# Language-Detection-
+# Language-Detection
 
 This is a language detector model which can predict 17 different languages.
 1) English
